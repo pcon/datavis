@@ -1,0 +1,1453 @@
+{
+  "frankstv": {
+	"price": 6190367.76,
+	"size": 2000,
+	"weight": 1198195.26
+  },
+  "fitcurves": {
+	"price": [
+		[15, 80],
+		[84, 4000]
+	],
+	"weight": [
+		[15.6, 2.2],
+		[84.5, 121]
+	]
+  },
+  "products": [
+    {
+      "name": "Dynex - 16\" Class (15.6\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 79.99,
+      "size": 15.6,
+      "weight": 2.2
+    },
+    {
+      "name": "Insignia™ - 19\" Class (18-1/2\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 99.99,
+      "size": 18.5,
+      "weight": 4.6
+    },
+    {
+      "name": "Samsung - 19\" Class (18-1/2\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 159.99,
+      "size": 18.5,
+      "weight": 5.5
+    },
+    {
+      "name": "Insignia™ - 20\" Class (19-1/2\" Diag.) - LED - 720p - HDTV DVD Combo - Black",
+      "price": 149.99,
+      "size": 19.5,
+      "weight": 5.1
+    },
+    {
+      "name": "Sceptre - 23\" Class (23\" Diag.) - LED - 1080p - HDTV DVD Combo - Black",
+      "price": 168.99,
+      "size": 23,
+      "weight": 8.2
+    },
+    {
+      "name": "Dynex™ - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 109.99,
+      "size": 23.63,
+      "weight": 7.2
+    },
+    {
+      "name": "Insignia™ - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV DVD Combo - Black",
+      "price": 159.99,
+      "size": 23.63,
+      "weight": 9
+    },
+    {
+      "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 149.99,
+      "size": 23.63,
+      "weight": 7.3
+    },
+    {
+      "name": "Samsung - 24\" Class (23-5/8\" Diag.) - LED - 720p - Smart - HDTV - Black",
+      "price": 199.99,
+      "size": 23.63,
+      "weight": 8.6
+    },
+    {
+      "name": "Samsung - 24\" Class (23-5/8\" Diag.) - LED- 720p - HDTV - Black",
+      "price": 199.99,
+      "size": 23.63,
+      "weight": 8.6
+    },
+    {
+      "name": "Insignia™ - 24\" Class (24\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 139.99,
+      "size": 24,
+      "weight": 5.4
+    },
+    {
+      "name": "RCA - 24\" Class (24\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 189.99,
+      "size": 24,
+      "weight": 9
+    },
+    {
+      "name": "RCA - 24\" Class (24\" Diag.) - LED - 1080p - HDTV DVD Combo - Black",
+      "price": 219.99,
+      "size": 24,
+      "weight": 7.3
+    },
+    {
+      "name": "Seiki - 24\" Class (24\" Diag.) - LED - 1080p - HDTV - White",
+      "price": 169.99,
+      "size": 24,
+      "weight": 7.3
+    },
+    {
+      "name": "VIZIO - E-Series 24\" Class (24\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 179.99,
+      "size": 24,
+      "weight": 6.83
+    },
+    {
+      "name": "VIZIO - E-Series 24\" Class (24\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 179.99,
+      "size": 24,
+      "weight": 6.83
+    },
+    {
+      "name": "Insignia™ - 28\" Class (27-1/2\" Diag.) - LED - 720p - 60Hz - HDTV - Black",
+      "price": 159.99,
+      "size": 27.5,
+      "weight": 8.6
+    },
+    {
+      "name": "Insignia™ - 28\" Class (27-1/2\" Diag.) - LED - 720p - HDTV DVD Combo - Black",
+      "price": 189.99,
+      "size": 27.5,
+      "weight": 9.4
+    },
+    {
+      "name": "Samsung - 28\" Class (27-1/2\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 249.99,
+      "size": 27.5,
+      "weight": 8.2
+    },
+    {
+      "name": "Samsung - 28\" Class (27-1/2\" Diag.) - LED - 720p - Smart - HDTV - Black",
+      "price": 219.99,
+      "size": 27.5,
+      "weight": 8.2
+    },
+    {
+      "name": "VIZIO - 28\" Class (27.51\" Diag.) - LED - 720p - Smart - HDTV - Black",
+      "price": 199.99,
+      "size": 27.51,
+      "weight": 8.93
+    },
+    {
+      "name": "VIZIO - 28\" Class (27.51\" Diag.) - LED - 720p - Smart - HDTV - Black",
+      "price": 199.99,
+      "size": 27.51,
+      "weight": 8.93
+    },
+    {
+      "name": "Insignia™ - 29\" Class (28-1/2\" Diag.) - LED - 720p - 60Hz - HDTV - Black",
+      "price": 149.99,
+      "size": 28.5,
+      "weight": 9.7
+    },
+    {
+      "name": "LG - LB4510 Series - 29\" Class (29\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 229.99,
+      "size": 29,
+      "weight": 5.4
+    },
+    {
+      "name": "Hisense - H3 Series - 32\" Class (31-1/2\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 159.99,
+      "size": 31.5,
+      "weight": 16
+    },
+    {
+      "name": "Insignia - 32\" Class (31.5\" Diag.) - LED - 720p - HDTV DVD Combo - Black",
+      "price": 219.99,
+      "size": 31.5,
+      "weight": 10.5
+    },
+    {
+      "name": "Insignia™ - 32\" Class (31-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 189.99,
+      "size": 31.5,
+      "weight": 10.2
+    },
+    {
+      "name": "Insignia™ - 32\" Class (31-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 189.99,
+      "size": 31.5,
+      "weight": 10.4
+    },
+    {
+      "name": "Insignia™ - 32\" Class (31-1/2\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 169.99,
+      "size": 31.5,
+      "weight": 13
+    },
+    {
+      "name": "Insignia™ - 32\" Class (31-1/2\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 169.99,
+      "size": 31.5,
+      "weight": 9.8
+    },
+    {
+      "name": "Insignia™ - 32\" Class (31.5\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 179.99,
+      "size": 31.5,
+      "weight": 8.8
+    },
+    {
+      "name": "LG - 32\" Class (31-1/2\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 249.99,
+      "size": 31.5,
+      "weight": 13.2
+    },
+    {
+      "name": "LG - 32\" Class (31-1/2\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 219.99,
+      "size": 31.5,
+      "weight": 13.2
+    },
+    {
+      "name": "Panasonic - 32\" Class (31-1/2\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 199.99,
+      "size": 31.5,
+      "weight": 12.2
+    },
+    {
+      "name": "Samsung - 32\" Class (31-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 299.99,
+      "size": 31.5,
+      "weight": 12.6
+    },
+    {
+      "name": "Samsung - 32\" Class (31-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 399.99,
+      "size": 31.5,
+      "weight": 10.7
+    },
+    {
+      "name": "Samsung - 32\" Class (31-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 349.99,
+      "size": 31.5,
+      "weight": 12.8
+    },
+    {
+      "name": "Samsung - 32\" Class (31-1/2\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 249.99,
+      "size": 31.5,
+      "weight": 11.9
+    },
+    {
+      "name": "Samsung - 32\" Class (31.5\" Diag.) - LED - 1080p - Smart - HDTV - Silver",
+      "price": 379.99,
+      "size": 31.5,
+      "weight": 10.4
+    },
+    {
+      "name": "Samsung - 32\" Class (31.5\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 239.99,
+      "size": 31.5,
+      "weight": 8.2
+    },
+    {
+      "name": "Sceptre - 32\" Class (31-1/2\" Diag.) - LED - 720p - HDTV DVD Combo - Blue",
+      "price": 199.99,
+      "size": 31.5,
+      "weight": 12
+    },
+    {
+      "name": "Sceptre - 32\" Class (31.5\" Diag.) - LED - 1080p - HDTV - Purple",
+      "price": 229.99,
+      "size": 31.5,
+      "weight": 11.44
+    },
+    {
+      "name": "Sceptre - 32\" Class (31.5\" Diag.) - LED - 720p - HDTV - White",
+      "price": 229.99,
+      "size": 31.5,
+      "weight": 11.44
+    },
+    {
+      "name": "Sharp - 32\" Class (31-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 229.99,
+      "size": 31.5,
+      "weight": 10.6
+    },
+    {
+      "name": "Sony - 32\" Class (31-1/2\" Diag.) - LED - 720p - 60Hz - HDTV - Black",
+      "price": 219.99,
+      "size": 31.5,
+      "weight": 11
+    },
+    {
+      "name": "VIZIO - 32\" Class (31.5\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 299.99,
+      "size": 31.5,
+      "weight": 11.31
+    },
+    {
+      "name": "VIZIO - D-Series - 32\" Class (31.5\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 219.99,
+      "size": 31.5,
+      "weight": 11.02
+    },
+    {
+      "name": "VIZIO - E-Series - 32\" Class (31-1/2\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 219.99,
+      "size": 31.5,
+      "weight": 10.8
+    },
+    {
+      "name": "VIZIO - E-Series - 32\" Class (31-1/2\" Diag.) - LED - 720p - Smart - HDTV - Black",
+      "price": 239.99,
+      "size": 31.5,
+      "weight": 10.8
+    },
+    {
+      "name": "VIZIO - M-Series - 32\" Class (31-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 299.99,
+      "size": 31.5,
+      "weight": 13.2
+    },
+    {
+      "name": "Westinghouse - 32\" Class (31-1/2\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 169.99,
+      "size": 31.5,
+      "weight": 11
+    },
+    {
+      "name": "SunBrite - Pro Series - 32\" Class (32\" Diag.) - LED - Outdoor - 1080p - HDTV - Black",
+      "price": 2995.98,
+      "size": 32,
+      "weight": 45
+    },
+    {
+      "name": "SunBrite - Pro Series - 32\" Class (32\" Diag.) - LED - Outdoor - 1080p - HDTV - Silver",
+      "price": 2995.98,
+      "size": 32,
+      "weight": 45
+    },
+    {
+      "name": "SunBrite - Pro Series - 32\" Class (32\" Diag.) - LED - Outdoor - 1080p - HDTV - White",
+      "price": 2995.98,
+      "size": 32,
+      "weight": 45
+    },
+    {
+      "name": "VIZIO - E-Series 32\" Class (32\" Diag.) - LED - 720p - Smart - HDTV - Black",
+      "price": 239.99,
+      "size": 32,
+      "weight": 11.02
+    },
+    {
+      "name": "Insignia™ - 39\" Class (38-1/2\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 229.99,
+      "size": 38.5,
+      "weight": 15.2
+    },
+    {
+      "name": "VIZIO - E-Series 39\" Class (38-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 309.99,
+      "size": 38.5,
+      "weight": 12.6
+    },
+    {
+      "name": "Insignia™ - 40\" Class (39-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 279.99,
+      "size": 39.5,
+      "weight": 16
+    },
+    {
+      "name": "LG - 40\" Class (39.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 899.99,
+      "size": 39.5,
+      "weight": 23
+    },
+    {
+      "name": "Panasonic - 40\" Class (39-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 329.99,
+      "size": 39.5,
+      "weight": 23.1
+    },
+    {
+      "name": "Panasonic - 40\" Class (39-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 399.99,
+      "size": 39.5,
+      "weight": 23.1
+    },
+    {
+      "name": "RCA - 40\" Class (39-1/2\" Diag.) - 1080p - LED - 60Hz - HDTV - Black",
+      "price": 249.99,
+      "size": 39.5,
+      "weight": 21.2
+    },
+    {
+      "name": "Samsung - 40\" Class (39-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 429.99,
+      "size": 39.5,
+      "weight": 16.8
+    },
+    {
+      "name": "Sony - 40\" Class (39-1/2\" Diag.) - LED - 1080p - HDTV - Multi",
+      "price": 317.99,
+      "size": 39.5,
+      "weight": 16.3
+    },
+    {
+      "name": "Westinghouse - 40\" Class (39-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 299.99,
+      "size": 39.5,
+      "weight": 14.3
+    },
+    {
+      "name": "Insignia - 40\" Class (40\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 279.99,
+      "size": 40,
+      "weight": 22
+    },
+    {
+      "name": "RCA - 40\" Class (40\" Diag.) - LED - 1080p - HDTV DVD Combo - Black",
+      "price": 349.99,
+      "size": 40,
+      "weight": 24.8
+    },
+    {
+      "name": "RCA - 40\" Class (40\" Diag.) - LED - 1080P - HDTV w/ Roku Streaming Stick - Black",
+      "price": 299.99,
+      "size": 40,
+      "weight": 18.3
+    },
+    {
+      "name": "Samsung - 40\" Class (40\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 429.99,
+      "size": 40,
+      "weight": 19.8
+    },
+    {
+      "name": "Samsung - 40\" Class (40\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 599.99,
+      "size": 40,
+      "weight": 17.2
+    },
+    {
+      "name": "Samsung - 40\" Class (40\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 699.99,
+      "size": 40,
+      "weight": 17.2
+    },
+    {
+      "name": "Samsung - 40\" Class (40\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 449.99,
+      "size": 40,
+      "weight": 19.6
+    },
+    {
+      "name": "Samsung - 40\" Class (40\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 579.99,
+      "size": 40,
+      "weight": 19.6
+    },
+    {
+      "name": "Samsung - 40\" Class (40\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 829.99,
+      "size": 40,
+      "weight": 17
+    },
+    {
+      "name": "Samsung - 40\" Class (40\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 899.98,
+      "size": 40,
+      "weight": 19.2
+    },
+    {
+      "name": "Sony - BRAVIA - 40\" Class (40\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 449.99,
+      "size": 40,
+      "weight": 16.3
+    },
+    {
+      "name": "VIZIO - 40\" Class (40\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 349.99,
+      "size": 40,
+      "weight": 15.87
+    },
+    {
+      "name": "VIZIO - E-Series - 40\" Class (40\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 349.99,
+      "size": 40,
+      "weight": 15.4
+    },
+    {
+      "name": "LG - 42\" Class (41-9/10\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 449.99,
+      "size": 41.9,
+      "weight": 20.3
+    },
+    {
+      "name": "LG - 42\" Class (41-9/10\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 547.99,
+      "size": 41.9,
+      "weight": 21.2
+    },
+    {
+      "name": "LG - 42\" Class (41-9/10\" Diag.) - LED - 1080p - Smart - HDTV - Silver",
+      "price": 499.99,
+      "size": 41.9,
+      "weight": 20.3
+    },
+    {
+      "name": "LG - 42\" Class (41.9\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 399.99,
+      "size": 41.9,
+      "weight": 20.3
+    },
+    {
+      "name": "Insignia™ - 42\" Class (42\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 309.99,
+      "size": 42,
+      "weight": 20
+    },
+    {
+      "name": "Sharp - 42\" Class (42\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 399.99,
+      "size": 42,
+      "weight": 18.7
+    },
+    {
+      "name": "VIZIO - M-Series - 42\" Class (42\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 429.99,
+      "size": 42,
+      "weight": 24.3
+    },
+    {
+      "name": "VIZIO - E-Series 43\" Class (43\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 389.99,
+      "size": 43,
+      "weight": 17.64
+    },
+    {
+      "name": "VIZIO - M-Series - 43\" Class (43\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 599.99,
+      "size": 43,
+      "weight": 22.05
+    },
+    {
+      "name": "Samsung - 46\" Class (45-9/10\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 599.99,
+      "size": 45.9,
+      "weight": 26.5
+    },
+    {
+      "name": "Samsung - 46\" Class (45-9/10\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Silver",
+      "price": 899.99,
+      "size": 45.9,
+      "weight": 24.9
+    },
+    {
+      "name": "Samsung - 46\" Class (45-9/10\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 649.99,
+      "size": 45.9,
+      "weight": 26.2
+    },
+    {
+      "name": "Samsung - 46\" Class (45-9/10\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 529.99,
+      "size": 45.9,
+      "weight": 24.9
+    },
+    {
+      "name": "LG - 47\" Class (46-9/10\" Diag.) - LED - 1080p - HDTV - Silver",
+      "price": 479.99,
+      "size": 46.9,
+      "weight": 27.1
+    },
+    {
+      "name": "LG - 47\" Class (46-9/10\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 549.99,
+      "size": 46.9,
+      "weight": 27.1
+    },
+    {
+      "name": "SunBriteTV - Pro Series 47\" Class (47\" Diag.) - LED - Outdoor - 1080p - 120Hz - HDTV - Silver",
+      "price": 4295.98,
+      "size": 47,
+      "weight": 85
+    },
+    {
+      "name": "SunBriteTV - Pro Series 47\" Class (47\" Diag.) - LED - Outdoor - 1080p - 120Hz - HDTV - White",
+      "price": 4295.98,
+      "size": 47,
+      "weight": 85
+    },
+    {
+      "name": "Samsung - 48\" Class (47-5/8\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Black",
+      "price": 949.99,
+      "size": 47.6,
+      "weight": 26.2
+    },
+    {
+      "name": "Samsung - 48\" Class (47.6\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 799.99,
+      "size": 47.6,
+      "weight": 24.9
+    },
+    {
+      "name": "Samsung - 48\" Class (47.6\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 449.99,
+      "size": 47.6,
+      "weight": 20.1
+    },
+    {
+      "name": "Insignia™ - 48\" Class (47-5/8\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 379.99,
+      "size": 47.63,
+      "weight": 33.1
+    },
+    {
+      "name": "Samsung - 48\" Class (47-5/8\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 849.99,
+      "size": 47.63,
+      "weight": 24.7
+    },
+    {
+      "name": "Sony - BRAVIA - 48\" Class (47-5/8\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 649.99,
+      "size": 47.63,
+      "weight": 21.9
+    },
+    {
+      "name": "VIZIO - E-Series 48\" Class (48\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 479.99,
+      "size": 48,
+      "weight": 23.15
+    },
+    {
+      "name": "VIZIO - E-Series 48\" Class (48\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 479.99,
+      "size": 48,
+      "weight": 20.9
+    },
+    {
+      "name": "Westinghouse - 48\" Class (48\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 329.99,
+      "size": 48,
+      "weight": 24.9
+    },
+    {
+      "name": "LG - 49\" Class (48.5\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 479.99,
+      "size": 48.5,
+      "weight": 29.1
+    },
+    {
+      "name": "LG - 49\" Class (48.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 1299.98,
+      "size": 48.5,
+      "weight": 30.8
+    },
+    {
+      "name": "LG - UB8200 Series - 49\" Class (48-1/2\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 1099.99,
+      "size": 48.5,
+      "weight": 38.6
+    },
+    {
+      "name": "Sony - 49\" Class (48-1/2\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 1399.99,
+      "size": 48.5,
+      "weight": 39.9
+    },
+    {
+      "name": "Dynex™ - 50\" Class (49-1/2\" Diag.) - LED - 720p - HDTV - Black",
+      "price": 279.99,
+      "size": 49.5,
+      "weight": 28.6
+    },
+    {
+      "name": "Hisense - 50\" Class (49-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 429.99,
+      "size": 49.5,
+      "weight": 45.1
+    },
+    {
+      "name": "Insignia™ - 50\" Class (49-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 356.99,
+      "size": 49.5,
+      "weight": 33.1
+    },
+    {
+      "name": "Insignia™ - 50\" Class (49.5\" Diag.) - LED -1080p - HDTV - Black",
+      "price": 399.99,
+      "size": 49.5,
+      "weight": 25.8
+    },
+    {
+      "name": "LG - 50\" Class (49-1/2\" Diag.) - LED - 1080p - HDTV - Silver",
+      "price": 549.99,
+      "size": 49.5,
+      "weight": 30.4
+    },
+    {
+      "name": "LG - 50\" Class (49-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 699.99,
+      "size": 49.5,
+      "weight": 31.5
+    },
+    {
+      "name": "LG - 50\" Class (49.5\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 629.99,
+      "size": 49.5,
+      "weight": 30.4
+    },
+    {
+      "name": "Panasonic - 50\" Class (49-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 449.99,
+      "size": 49.5,
+      "weight": 35.3
+    },
+    {
+      "name": "Panasonic - 50\" Class (49-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 599.99,
+      "size": 49.5,
+      "weight": 33.1
+    },
+    {
+      "name": "Samsung - 50\" Class (49-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 699.99,
+      "size": 49.5,
+      "weight": 34.6
+    },
+    {
+      "name": "Samsung - 50\" Class (49-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 949.99,
+      "size": 49.5,
+      "weight": 28
+    },
+    {
+      "name": "Samsung - 50\" Class (49-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 699.99,
+      "size": 49.5,
+      "weight": 34.4
+    },
+    {
+      "name": "Samsung - 50\" Class (49-1/2\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
+      "price": 1499.98,
+      "size": 49.5,
+      "weight": 32.4
+    },
+    {
+      "name": "Samsung - 50\" Class (49-1/2\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 1499.99,
+      "size": 49.5,
+      "weight": 30.9
+    },
+    {
+      "name": "Samsung - 50\" Class (49.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 1099.99,
+      "size": 49.5,
+      "weight": 26.9
+    },
+    {
+      "name": "Sharp - 50\" Class (49-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 499.99,
+      "size": 49.5,
+      "weight": 29.3
+    },
+    {
+      "name": "Sony - 50\" Class (49-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Multi",
+      "price": 699.99,
+      "size": 49.5,
+      "weight": 30
+    },
+    {
+      "name": "VIZIO - 50\" Class (49-1/2\" Diag.) - LED - 1080p - 240Hz - Smart - HDTV - Black",
+      "price": 599.99,
+      "size": 49.5,
+      "weight": 34.2
+    },
+    {
+      "name": "VIZIO - E-Series 50\" Class (49.5\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 529.99,
+      "size": 49.5,
+      "weight": 27.56
+    },
+    {
+      "name": "VIZIO - E-Series 50\" Class (50\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 529.99,
+      "size": 50,
+      "weight": 31.09
+    },
+    {
+      "name": "VIZIO - M-Series - 50\" Class (50\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 799.99,
+      "size": 50,
+      "weight": 32.19
+    },
+    {
+      "name": "Insignia™ - 55\" Class (54.6\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 499.99,
+      "size": 54.6,
+      "weight": 41.9
+    },
+    {
+      "name": "LG - 55\" Class (54-5/8\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 599.99,
+      "size": 54.6,
+      "weight": 39.2
+    },
+    {
+      "name": "LG - 55\" Class (54.6\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 729.99,
+      "size": 54.6,
+      "weight": 39.6
+    },
+    {
+      "name": "Samsung - 55\" Class (54.6\" Diag.) - LED - 1080p - Smart - HDTV - Silver",
+      "price": 1399.99,
+      "size": 54.6,
+      "weight": 34.6
+    },
+    {
+      "name": "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
+      "price": 2999.99,
+      "size": 54.6,
+      "weight": 41.9
+    },
+    {
+      "name": "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver/Black",
+      "price": 1799.99,
+      "size": 54.6,
+      "weight": 38.1
+    },
+    {
+      "name": "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 1299.99,
+      "size": 54.6,
+      "weight": 33.1
+    },
+    {
+      "name": "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 1399.99,
+      "size": 54.6,
+      "weight": 37
+    },
+    {
+      "name": "Samsung - 55\" Class (54.6\" Diag.) - LED - Curved - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
+      "price": 1999.98,
+      "size": 54.6,
+      "weight": 38.4
+    },
+    {
+      "name": "Samsung - 55\" Class (54.6\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 1499.99,
+      "size": 54.6,
+      "weight": 35.7
+    },
+    {
+      "name": "Samsung - 55\" Class (54.6\" Diag.) - LED Curved - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
+      "price": 3999.98,
+      "size": 54.6,
+      "weight": 47.6
+    },
+    {
+      "name": "Sharp - AQUOS - 55\" Class (54.6\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 599.99,
+      "size": 54.6,
+      "weight": 35.27
+    },
+    {
+      "name": "Sony - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Silver",
+      "price": 1399.99,
+      "size": 54.6,
+      "weight": 51.8
+    },
+    {
+      "name": "Hisense - VIDAA 55\" Class (54-5/8\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 559.99,
+      "size": 54.63,
+      "weight": 50.6
+    },
+    {
+      "name": "LG - 55\" Class (54-5/8\" Diag.) - OLED - Curved - 1080p - Smart - 3D - HDTV - Black",
+      "price": 3499.99,
+      "size": 54.63,
+      "weight": 31.7
+    },
+    {
+      "name": "LG - 60\" Class (54-5/8\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 1999.99,
+      "size": 54.63,
+      "weight": 45.2
+    },
+    {
+      "name": "Panasonic - 55\" Class (54-5/8\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 699.99,
+      "size": 54.63,
+      "weight": 37.5
+    },
+    {
+      "name": "RCA - 55\" Class (54-5/8\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 549.99,
+      "size": 54.63,
+      "weight": 48.9
+    },
+    {
+      "name": "Samsung - 55\" Class (54-5/8\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Black",
+      "price": 1399.99,
+      "size": 54.63,
+      "weight": 36.6
+    },
+    {
+      "name": "Samsung - 55\" Class (54-5/8\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Silver",
+      "price": 999.99,
+      "size": 54.63,
+      "weight": 32.6
+    },
+    {
+      "name": "Samsung - 55\" Class (54-5/8\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 999.99,
+      "size": 54.63,
+      "weight": 39.7
+    },
+    {
+      "name": "Samsung - 55\" Class (54-5/8\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 1099.99,
+      "size": 54.63,
+      "weight": 34.6
+    },
+    {
+      "name": "Samsung - 55\" Class (54-5/8\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
+      "price": 2499.98,
+      "size": 54.63,
+      "weight": 44.5
+    },
+    {
+      "name": "Samsung - 55\" Class (54-5/8\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 1999.99,
+      "size": 54.63,
+      "weight": 37
+    },
+    {
+      "name": "Samsung - 55\" Class (54-5/8\" Diag.) - LED - Curved - 1080p - Smart - 3D - HDTV - Silver",
+      "price": 1599.98,
+      "size": 54.63,
+      "weight": 38.4
+    },
+    {
+      "name": "Samsung - 55\" Class (54-5/8\" Diag.) - LED - Curved - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 2399.98,
+      "size": 54.63,
+      "weight": 43.9
+    },
+    {
+      "name": "Samsung - 55\" Class (54-5/8\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 2199.99,
+      "size": 54.63,
+      "weight": 41.2
+    },
+    {
+      "name": "Sony - 55\" Class (54-5/8\" Diag.) - LED - 1080p - Smart - HDTV - Multi",
+      "price": 899.99,
+      "size": 54.63,
+      "weight": 37.9
+    },
+    {
+      "name": "Sony - 55\" Class (54-5/8\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 1499.99,
+      "size": 54.63,
+      "weight": 49.6
+    },
+    {
+      "name": "Sony - 55\" Class (54-5/8\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 2799.98,
+      "size": 54.63,
+      "weight": 82.4
+    },
+    {
+      "name": "VIZIO - 55\" Class (54-5/8\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 699.99,
+      "size": 54.64,
+      "weight": 38.6
+    },
+    {
+      "name": "VIZIO - E-Series - 55\" Class (54-5/8\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 629.99,
+      "size": 54.64,
+      "weight": 24.2
+    },
+    {
+      "name": "SunBrite - Pro Series - 55\" Class (55\" Diag.) - LED - Outdoor - 1080p - HDTV - Silver",
+      "price": 5747.98,
+      "size": 55,
+      "weight": 120
+    },
+    {
+      "name": "SunBrite - Pro Series - 55\" Class (55\" Diag.) - LED - Outdoor - 1080p - HDTV - White",
+      "price": 5745.98,
+      "size": 55,
+      "weight": 120
+    },
+    {
+      "name": "SunBriteTV - Pro Series - 55\" Class (55\" Diag.) - LED - Outdoor - 1080p - HDTV - Black",
+      "price": 5744.98,
+      "size": 55,
+      "weight": 115
+    },
+    {
+      "name": "VIZIO - E-Series 55\" Class (55\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 629.99,
+      "size": 55,
+      "weight": 34.17
+    },
+    {
+      "name": "VIZIO - M-Series - 55\" Class (55\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Metallic Gray",
+      "price": 999.99,
+      "size": 55,
+      "weight": 39.24
+    },
+    {
+      "name": "Panasonic - 58\" Class (57-1/2\" Diag.) - LED - 4K Ultra HD TV (2160p) - 120Hz - Smart - 3D - HDTV - Black",
+      "price": 1799.98,
+      "size": 57.5,
+      "weight": 72.8
+    },
+    {
+      "name": "LG - 60\" Class (59-1/2\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Black",
+      "price": 1699.99,
+      "size": 59.5,
+      "weight": 49
+    },
+    {
+      "name": "LG - 60\" Class (59.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 1999.99,
+      "size": 59.5,
+      "weight": 51.3
+    },
+    {
+      "name": "Panasonic - 60\" Class (59-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 799.99,
+      "size": 59.5,
+      "weight": 44.1
+    },
+    {
+      "name": "Samsung - 60\" Class (59-9/10\" Diag.) - Plasma - 1080p - HDTV - Black",
+      "price": 849.99,
+      "size": 59.9,
+      "weight": 58.9
+    },
+    {
+      "name": "Samsung - 60\" Class (60\" Diag.) - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 1799.99,
+      "size": 60,
+      "weight": 46.1
+    },
+    {
+      "name": "Samsung - 60\" Class (60\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Black",
+      "price": 1699.99,
+      "size": 60,
+      "weight": 48.1
+    },
+    {
+      "name": "Samsung - 60\" Class (60\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Silver",
+      "price": 1299.99,
+      "size": 60,
+      "weight": 42.1
+    },
+    {
+      "name": "Samsung - 60\" Class (60\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 1399.99,
+      "size": 60,
+      "weight": 51.8
+    },
+    {
+      "name": "Samsung - 60\" Class (60\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 1499.99,
+      "size": 60,
+      "weight": 51.8
+    },
+    {
+      "name": "Samsung - 60\" Class (60\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 1199.99,
+      "size": 60,
+      "weight": 50.7
+    },
+    {
+      "name": "Samsung - 60\" Class (60\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 2999.99,
+      "size": 60,
+      "weight": 49.2
+    },
+    {
+      "name": "Samsung - 60\" Class (60\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver/Black",
+      "price": 2299.99,
+      "size": 60,
+      "weight": 47.2
+    },
+    {
+      "name": "Sony - 60\" Class (60\" Diag.) - LED - 1080p - 120Hz - Smart - HDTV - Black",
+      "price": 799.99,
+      "size": 60,
+      "weight": 42.1
+    },
+    {
+      "name": "Sony - 60\" Class (60\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 1349.99,
+      "size": 60,
+      "weight": 43.9
+    },
+    {
+      "name": "Sony - BRAVIA - 60\" Class (60\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Black",
+      "price": 1199.99,
+      "size": 60,
+      "weight": 74.3
+    },
+    {
+      "name": "VIZIO - 60\" Class (60\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 999.99,
+      "size": 60,
+      "weight": 46.4
+    },
+    {
+      "name": "VIZIO - 60\" Class (60\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 799.99,
+      "size": 60,
+      "weight": 45.42
+    },
+    {
+      "name": "VIZIO - 60\" Class (60\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 1499.99,
+      "size": 60,
+      "weight": 49.89
+    },
+    {
+      "name": "VIZIO - E-Series - 60\" Class (60-1/8\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 799.99,
+      "size": 60,
+      "weight": 46.3
+    },
+    {
+      "name": "VIZIO - P-Series - 60\" Class (60\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 1499.99,
+      "size": 60,
+      "weight": 48.7
+    },
+    {
+      "name": "Sharp - AQUOS Q+ Series - 60\" Class (60-1/32\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Silver",
+      "price": 1499.99,
+      "size": 60.03,
+      "weight": 71.7
+    },
+    {
+      "name": "Sharp - AQUOS - 60\" Class (60-3/32\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 599.99,
+      "size": 60.09,
+      "weight": 43
+    },
+    {
+      "name": "Sharp - AQUOS HD - 60\" Class (60-3/32\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 899.99,
+      "size": 60.09,
+      "weight": 52.9
+    },
+    {
+      "name": "Sharp - AQUOS Q Series - 60\" Class (60-3/32\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 1199.99,
+      "size": 60.09,
+      "weight": 55.1
+    },
+    {
+      "name": "Insignia™ - 65\" Class (64-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+      "price": 829.99,
+      "size": 64.5,
+      "weight": 56.2
+    },
+    {
+      "name": "LG - 65\" Class (64-1/2\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 2299.99,
+      "size": 64.5,
+      "weight": 74.3
+    },
+    {
+      "name": "LG - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 2699.99,
+      "size": 64.5,
+      "weight": 69
+    },
+    {
+      "name": "LG - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 2499.99,
+      "size": 64.5,
+      "weight": 59
+    },
+    {
+      "name": "LG - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 3999.98,
+      "size": 64.5,
+      "weight": 56.2
+    },
+    {
+      "name": "LG - 65\" Class (64.5\" Diag.) - OLED - Curved - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 8999.98,
+      "size": 64.5,
+      "weight": 44.1
+    },
+    {
+      "name": "Panasonic - 65\" Class (64-1/2\" Diag.) - LED - 4K Ultra HD TV (2160p) - 120Hz - Smart - 3D - HDTV - Black",
+      "price": 2199.98,
+      "size": 64.5,
+      "weight": 88.2
+    },
+    {
+      "name": "Samsung - 65\" Class (64-1/2\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Silver",
+      "price": 1499.99,
+      "size": 64.5,
+      "weight": 50
+    },
+    {
+      "name": "Samsung - 65\" Class (64-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 1199.99,
+      "size": 64.5,
+      "weight": 62.4
+    },
+    {
+      "name": "Samsung - 65\" Class (64-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 1799.99,
+      "size": 64.5,
+      "weight": 56.2
+    },
+    {
+      "name": "Samsung - 65\" Class (64-1/2\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
+      "price": 3499.98,
+      "size": 64.5,
+      "weight": 59.1
+    },
+    {
+      "name": "Samsung - 65\" Class (64-1/2\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
+      "price": 3499.99,
+      "size": 64.5,
+      "weight": 54.2
+    },
+    {
+      "name": "Samsung - 65\" Class (64-1/2\" Diag.) - LED - Curved - 1080p - Smart - 3D - HDTV - Silver",
+      "price": 2299.98,
+      "size": 64.5,
+      "weight": 52.9
+    },
+    {
+      "name": "Samsung - 65\" Class (64-1/2\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 2199.99,
+      "size": 64.5,
+      "weight": 61.5
+    },
+    {
+      "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 1699.99,
+      "size": 64.5,
+      "weight": 56.2
+    },
+    {
+      "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 4999.99,
+      "size": 64.5,
+      "weight": 60.8
+    },
+    {
+      "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
+      "price": 2799.99,
+      "size": 64.5,
+      "weight": 52.5
+    },
+    {
+      "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 2499.99,
+      "size": 64.5,
+      "weight": 58
+    },
+    {
+      "name": "Samsung - 65\" Class (64.5\" Diag.) - LED Curved - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
+      "price": 4999.98,
+      "size": 64.5,
+      "weight": 65.7
+    },
+    {
+      "name": "Samsung - 65\" Class (64.5\" Diag.) - LED Curved - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
+      "price": 2999.98,
+      "size": 64.5,
+      "weight": 58
+    },
+    {
+      "name": "Samsung - 65\" Class (64.5\" Diag.) - LED Curved - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
+      "price": 5999.98,
+      "size": 64.5,
+      "weight": 67.5
+    },
+    {
+      "name": "Sharp - AQUOS - 65\" Class (64.5\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 999.99,
+      "size": 64.5,
+      "weight": 56.22
+    },
+    {
+      "name": "Sony - 65\" Class (64-1/2\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 5999.98,
+      "size": 64.5,
+      "weight": 92.6
+    },
+    {
+      "name": "Sony - 65\" Class (64-1/2\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 3799.98,
+      "size": 64.5,
+      "weight": 101.2
+    },
+    {
+      "name": "Sony - 65\" Class (64-1/2\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 2299.99,
+      "size": 64.5,
+      "weight": 69.1
+    },
+    {
+      "name": "Sony - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Silver",
+      "price": 2099.99,
+      "size": 64.5,
+      "weight": 72.1
+    },
+    {
+      "name": "VIZIO - P-Series - 65\" Class (64-1/2\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 1799.99,
+      "size": 64.5,
+      "weight": 60
+    },
+    {
+      "name": "VIZIO - M-Series - 65\" Class (65\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 1699.99,
+      "size": 65,
+      "weight": 60.72
+    },
+    {
+      "name": "Sharp - AQUOS - 70\" Class (69-1/2\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Silver",
+      "price": 2799.98,
+      "size": 69.5,
+      "weight": 82.7
+    },
+    {
+      "name": "Sharp - AQUOS HD - 70\" Class (69-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 1499.99,
+      "size": 69.5,
+      "weight": 75
+    },
+    {
+      "name": "Sharp - AQUOS Q Series - 70\" Class (69-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 1799.99,
+      "size": 69.5,
+      "weight": 77.2
+    },
+    {
+      "name": "Sharp - AQUOS Q+ Series - 70\" Class (69-1/2\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Silver",
+      "price": 1999.99,
+      "size": 69.5,
+      "weight": 93.7
+    },
+    {
+      "name": "Sharp - AQUOS Q+ Series - 70\" Class (69-1/2\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Silver",
+      "price": 2299.98,
+      "size": 69.5,
+      "weight": 93.7
+    },
+    {
+      "name": "Sony - 70\" Class (69-1/2\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black/Dark Silver",
+      "price": 3999.98,
+      "size": 69.5,
+      "weight": 95.5
+    },
+    {
+      "name": "Sony - BRAVIA - 70\" Class (69-1/2\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Black",
+      "price": 1799.99,
+      "size": 69.5,
+      "weight": 95.9
+    },
+    {
+      "name": "VIZIO - E-Series - 70\" Class (69-1/2\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 1399.99,
+      "size": 69.5,
+      "weight": 57.5
+    },
+    {
+      "name": "VIZIO - E-Series 70\" Class (70\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 1399.99,
+      "size": 70,
+      "weight": 55.69
+    },
+    {
+      "name": "VIZIO - M-Series - 70\" Class (70\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 2199.99,
+      "size": 70,
+      "weight": 62.17
+    },
+    {
+      "name": "Samsung - 75\" Class (74-1/2\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 6999.98,
+      "size": 74.5,
+      "weight": 79.8
+    },
+    {
+      "name": "Samsung - 75\" Class (74.5\" Diag.) - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 3999.99,
+      "size": 74.5,
+      "weight": 80.5
+    },
+    {
+      "name": "Samsung - 75\" Class (74-5/8\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Silver",
+      "price": 3499.98,
+      "size": 74.63,
+      "weight": 75
+    },
+    {
+      "name": "Samsung - 75\" Class (74-5/8\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 2999.99,
+      "size": 74.63,
+      "weight": 72.8
+    },
+    {
+      "name": "Samsung - 78\" Class (78\" Diag.) - LED - Curved - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 5999.98,
+      "size": 78,
+      "weight": 101.2
+    },
+    {
+      "name": "LG - 79\" Class (78-1/2\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 5999.98,
+      "size": 78.5,
+      "weight": 125.7
+    },
+    {
+      "name": "Sony - 79\" Class (78-5/8\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Black",
+      "price": 6999.98,
+      "size": 78.63,
+      "weight": 127.9
+    },
+    {
+      "name": "Sharp - AQUOS - 80\" Class (80\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "price": 2999.99,
+      "size": 80,
+      "weight": 115.7
+    },
+    {
+      "name": "Sharp - AQUOS Q+ Series - 80\" Class (80\" Diag.) - LED - 1080p - Smart - 3D - HDTV - Silver",
+      "price": 3999.98,
+      "size": 80,
+      "weight": 135.6
+    },
+    {
+      "name": "VIZIO - M-Series - 80\" Class (80\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "price": 3999.99,
+      "size": 80,
+      "weight": 99.03
+    }
+  ]
+}

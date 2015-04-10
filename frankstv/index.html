@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../base.css">
+	<title>Frank's 2000" TV</title>
+
+	<style>
+		.chart {
+			width: 100% !important;
+			height: auto !important;
+		}
+
+		.panel {
+			padding: 0px !important;
+		}
+
+		#conclusion {
+			margin-top: 60px;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="jumbotron">
+			<h1>Frank's 2000" TV</h1>
+			<p>One day I had a Shower Thought&#8482;.  If you were to try to buy a 2000" TV today, how much would it cost and how much would it weight.</p>
+		</div>
+		<div class="page-header">
+			<h1>Background</h1>
+		</div>
+		<p>If you're not familiar, Frank's 2000" TV is the title of a song from <a href="">"Weird Al" Yankovic's</a> 1993 album <a href="">Alapalooza</a>.  In which the song's titular Frank buys (you guessed it) a 2000" TV.</p>
+		<p>So I decided I'd try my hand and figuring this out based on data I could glean from current TV sizes and prices.  To do this I took used the <a href="https://developer.bestbuy.com/">Best Buy API</a> to pull down all of the televisions they have in their database and then get the price, weight and size<a href="#note_1"><sup>1</sup></a>.  Then taking that data I transformed it into two data sets, price vs size and weight vs size.  Then taking that data I inserted it into <a href="http://www.highcharts.com/">Highcharts</a> using a regression library<a href="#note_2"><sup>2</sup></a> to get a best fit line.  I tried a couple of different line models until I found what I think is the best fit<a href="#note_3"><sup>3</sup></a>.</p>
+		<div class="row" id="conclusion">
+			<div class="col-md-4 col-md-offset-1 panel panel-default">
+				<div class="panel-body text-center">
+					<h1>$6,190,367.76</h1>
+				</div>
+				<div class="panel-footer text-center">TV Cost</div>
+			</div>
+			<div class="col-md-4 col-md-offset-2 panel panel-default">
+				<div class="panel-body text-center">
+					<h1>1,198,195.26 lbs</h1>
+				</div>
+				<div class="panel-footer text-center">TV Weight</div>
+			</div>
+		</div>
+
+		<div class="page-header">
+			<h1>Graphs</h1>
+		</div>
+		<div class="chart" id="priceChart" width="800" height="600"></div>
+		<div class="chart" id="weightChart" width="800" height="600"></div>
+		<div class="page-header">
+			<h1>Queries and Formulas</h1>
+		</div>
+		<p>To get the data from the <a href="https://developer.bestbuy.com/">Best Buy API</a> I made two queries (five if you count the ones used to get the pagination results)</p>
+		<h3>List all categories</h3>
+		<pre>curl "http://api.remix.bestbuy.com/v1/categories?format=json&amp;apiKey=$API_KEY&amp;show=id,name"</pre>
+		<h3>List all products in that category</h3>
+		<pre>curl "http://api.remix.bestbuy.com/v1/products((search=tv)&amp;categoryPath.id=abcat0101000)?show=name,sku,salePrice,details.name,details.value&amp;format=json&amp;pageSize=100&amp;page=1&amp;apiKey=$APIKEY"</pre>
+		<h3>Best fit lines</h3>
+		<p>After pushing the data into Highcharts and running the regression library<a href="#note_2"><sup>2</sup></a> I got the following formulas</p>
+		<ul>
+			<li><b>Price</b> &mdash; <code>y = 1.59x<sup>2</sup> + -85.52x + 1407.76</code></li>
+			<li><b>Weight</b> &mdash; <code>y = 0.03x<sup>2</sup> + -0.91x + 15.26</code></li>
+		</ul>
+		<div class="page-header">
+			<h1>Raw Data</h1>
+			<ul>
+				<li><a href="data.json">Product &amp; Graphing Data</a> &mdash; The reduced and formatted product data as well as the data used to generate the graphs</li>
+				<li>Raw Product Data [<a href="page1.json">1</a>, <a href="page2.json">2</a>, <a href="page3.json">3</a>] &mdash; The raw data obtained from the Best Buy API</li>
+			</ul>
+		</div>
+		<div class="page-header">
+			<h4>Notes</h4>
+		</div>
+		<p><a name="note_1"></a><sup>1</sup> Since I did this in an automated fashion some of the entries were not formatted consistantly and so I threw them out.  For example some of the sizes were denoted as <code>54-1/2</code> instead of <code>54.5</code> and rather than code up all the possibilities, I just removed them</p>
+		<p><a name="note_2"></a><sup>2</sup> The regression charting library was developed by <a href="https://github.com/phpepe">Ignacio Vazquez</a> and can be found on <a href="https://github.com/streamlinesocial/highcharts-regression">GitHub</a>
+		<p><a name="note_3"></a><sup>3</sup> I am not a mathmatician and I've not taken statistics in a long time.  I only tried a couple of different formulas and eyeballed their matches</p>
+	</div>
+	<div class="footer well" style="margin-bottom: 0px">
+		<div class="container">
+			<p class="muted credit" id="footer-credit">
+				Developed and designed by <a href="http://about.me/patrick.connelly">Patrick Connelly</a> using <a href="http://twitter.github.io/bootstrap/">Bootstrap</a>
+			</p>
+			<p class="muted text-right" id="footer-social">
+				Let's be social:
+				<span class="social"><a href="https://twitter.com/aelst"></a></span>
+				<span class="social"><a href="https://plus.google.com/u/0/110313812766862944812/posts"></a></span>
+				<span class="social"><a href="http://flickr.com/photos/grepsy"></a></span>
+				<span class="social"><a href="http://pcon.github.io/"></a></span>
+				<span class="social"><a href="https://www.linkedin.com/pub/patrick-connelly/28/6b3/b56/"></a></span>
+				<span class="social"><a href="mailto:patrick@deadlypenguin.com">✉</a></span>
+				<span class="social"><a href="http://blog.deadlypenguin.com/blog/feed/"></a></span>
+				<!-- Fonts by Daniel Bruce and Just Be Nice studio used under SIL OFL. http://deadlypenguin.com/f/LICENSE.txt -->
+			</p>
+		</div>
+	</div>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/3.4.0/lodash.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/highcharts/4.1.4/highcharts.js"></script>
+	<script src="highcharts-regression.js"></script>
+	<script src="index.js"></script>
+	<script src="../ga.js"></script>
+</body>
+</html>
